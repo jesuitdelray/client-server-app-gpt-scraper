@@ -5,7 +5,7 @@ First of all you should have API key from GPT.
 
 .env with VITE_OPENAI_API_KEY= is required.
 
-![image](https://github.com/jesuitdelray/client-server-app-gpt-scraper/assets/124043530/c2b256d2-5b20-47e3-a44a-886382c83f11)
+![image](https://github.com/jesuitdelray/client-server-app-gpt-scraper/assets/124043530/f733a05b-0e0b-4a88-b7e3-e5b79582ede1)
 
 
 To start application:
