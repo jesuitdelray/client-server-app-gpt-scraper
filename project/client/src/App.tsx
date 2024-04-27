@@ -1,12 +1,12 @@
-import "./App.css"
-import { Scrapper } from "./components/scrapper"
+import "./App.css";
+import { Scrapper } from "./components/Scrapper";
 
 function App() {
-    return (
-        <>
-            <Scrapper />
-        </>
-    )
+  return (
+    <>
+      <Scrapper />
+    </>
+  );
 }
 
-export default App
+export default App;
